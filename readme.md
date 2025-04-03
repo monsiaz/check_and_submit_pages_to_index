@@ -4,18 +4,6 @@ This Python script automates the process of checking whether URLs from a specifi
 
 ---
 
-## Table of Contents
-1. [Overview](#overview)
-2. [Key Features](#key-features)
-3. [Prerequisites](#prerequisites)
-4. [Setup & Usage](#setup--usage)
-5. [Technical Flow](#technical-flow)
-6. [SEO Perspective](#seo-perspective)
-7. [Troubleshooting & Notes](#troubleshooting--notes)
-8. [License](#license)
-
----
-
 ## Overview
 - **Script Name**: `indexation_script.py`
 - **Purpose**: 
